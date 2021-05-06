@@ -1,0 +1,11 @@
+Hie so Today is the first day of my #100DaysOfCode and below I will be 
+giving an overview about the things I have learnt today.
+
+1) How internet Works.
+2) What are servers and why we use them.
+3) What exactly happens after we hit an url.
+4) What is DNS.
+5) How DNS works.
+6) DNS Architecture.
+7) How webste works.
+8) MERN.
