@@ -1,0 +1,20 @@
+Hie so today is the second day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) Introduction to HTML.
+2) HTML Tags.
+3) What is HTML Boilerplate.
+4) What is favicon and its implementation.
+5) What are Meta tags and its uses.
+6) What are HTML elements, attributes and attribute values with few examples.
+7) What are Empty tags or self-closing tags.
+8) Different styles to modify the text and the differences between them.Some of 
+    them are -
+    (a) emphasize (em) vs italic(i) 
+    (b) strong vs bold
+    (c) subscript(sub) vs superscript(sup)
+    (d) insert(ins) vs delete(del)
+    (e) mark
+    (f) pre
+    (g) code
+    (h) blockquote.
