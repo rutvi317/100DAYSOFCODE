@@ -1,0 +1,16 @@
+Hie so today is the third day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) How to use images on our website.
+2) Two ways of inserting images.
+3) What is list. Why it is been used.
+4) Different types of lists and their implementaion with some examples.
+5) What are form and links.
+6) Difference between 'GET' and 'POST' method.
+7) How to implement forms and links with examples.
+8) Tables and its implementation.
+9) Various properties of tables such as-
+     (a) Cellpadding.
+     (b) Cellspacing.
+     (c) Colspan.
+     (d) Rowspan. 
