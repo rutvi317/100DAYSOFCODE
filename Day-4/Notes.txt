@@ -1,0 +1,13 @@
+Hie so today is the fourth day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) Introduction to CSS.
+   (a) Full Form (Cascading Style Sheet).
+   (b) Why CSS is been used.
+   (c) Types of CSS.
+2) What is user-agent stylesheet.
+3) What is marging.
+4) Types of marging.
+5) Margin Collapsing and how to overcome it.
+6) What is padding.
+7) Types of padding.
