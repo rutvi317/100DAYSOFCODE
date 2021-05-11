@@ -1,0 +1,19 @@
+Hie so today is the sixth day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) What is Display And Visibility.
+2) Several values/properties which they can have.
+3) Properties of display- 
+   (a) block
+   (b) inline
+   (c) inline-block
+   (d) none
+4) Properties of Visibility-
+   (a) hidden
+   (b) visible
+   (c) initial
+   (d) inherit
+5) What are positions.
+6) What is Static position.
+7) What is Relative position.
+8) What is Absolute position.
