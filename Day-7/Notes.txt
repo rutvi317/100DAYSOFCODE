@@ -1,0 +1,9 @@
+Hie so today is the seventh day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) What is fixed position.
+2) What do you mean by sticky position.
+3) What is z-index and how it works.
+4) What do you mean by box-sizing and the properties it has.
+   (a) box-sizing: border-box
+   (b) box-sizing: content-box
