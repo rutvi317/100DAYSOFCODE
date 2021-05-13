@@ -1,0 +1,7 @@
+Hie so today is the eigth day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) I did a practical implementation of all the concepts which I have learned in the last 
+    seven days.
+2) Below I am attaching the screenshots of my work in a pdf file along with the 
+code.
