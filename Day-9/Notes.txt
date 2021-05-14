@@ -1,0 +1,9 @@
+Hie so today is the ninth day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) After learning some basics concepts of css, today started learning some 
+   concepts of advanced css.
+2) I started by learning what is 'flex-display'?
+3) What does align-item mean and how it is been used.
+4) What does align-content mean and how it is been used.
+5) Difference between both of them.
