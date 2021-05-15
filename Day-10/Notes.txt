@@ -1,0 +1,13 @@
+Hie so today is the tenth day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) What are borders and why we use them along with the syntax.
+2) What is border radius and its different uses.
+3) What do you mean by box-shadow.
+  (a) How we use box-shadow to get a blurred effect.
+  (b) How to add a different color in box-shadow.
+  (c) How to achieve shadow on all four sides of the box.
+4) What is tex-shadow with its implementation.
+   (a) How to achieve blurriness and multiple text-shadows.
+5) What is Font-Family and Font-Style.
+6) How we use Google-Font.
