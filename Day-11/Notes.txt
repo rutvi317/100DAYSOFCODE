@@ -1,0 +1,15 @@
+Hie so today is the eleventh day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) What is Font-weight?
+2) What is text-decoration, its different styles along with the syntax?
+3) How to change color of a text.
+4) What is Font-size and how to use it.
+5) Difference between px, em, rem.
+6) What is letter-spacing and how to use it.
+7) What is button along with the syntax.
+8) Few properties that can be applied on button -
+    (a) hover
+    (b) active
+9) What is transition along with some of its properties.
+10) How to use 'background' with different properties.
