@@ -1,0 +1,10 @@
+Hie so today is the twelveth day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) What do you understand by gradients.
+2) Types of gradients.
+3) What do you understand by Linear gradient.
+4) How Linear gradient is been used along with rgb().
+5) How many parameters can be used in rgb and what does they stand for.
+6) Different use cases of Linear Gradient.
+7) What is Radial Gradient and its use cases.
