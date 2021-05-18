@@ -1,0 +1,19 @@
+Hie so today is the thirteenth day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) What do you mean by sizing in css.
+2) Different types of sizing.
+3) Detailed study about- 
+   (a) px vs em vs rem
+   (b) percentage
+   (c) vh
+   (d) vw
+4) What are transitions.
+5) Why and how transitions can be used.
+6) Different transition-timing-functions we use.
+7) What is cubic-bezier().
+8) What do you mean by transformations.
+9) Different properties of transformations and their use cases.
+10) What do understand by animation.
+
+   
