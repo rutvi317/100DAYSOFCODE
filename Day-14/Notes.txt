@@ -1,0 +1,11 @@
+Hie so today is the fourteenth day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) What do you mean by Grid-Display.
+2) Properties of Grid-Display.
+3) Shorthand properties for those properties.
+4) What is Grid-Alignment with all possible use cases.
+5) What do you understand by Responsive Design and how to apply it 
+    for different screens.
+
+   
