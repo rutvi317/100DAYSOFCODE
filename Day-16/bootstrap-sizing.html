@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
+    <title>Sizing and Shaping</title>
+</head>
+<body class="container p-5">
+    
+    <!-- Width -->
+    <div class="w-25 mb-2 bg-secondary">Width 25%</div>
+    <div class="w-50 mb-2 bg-secondary">Width 50%</div>
+    <div class="w-75 mb-2 bg-secondary">Width 75%</div>
+    <div class="w-100 mb-2 bg-secondary">Width 100%</div>
+    <div class="w-auto mb-2 bg-secondary">Width auto</div>
+
+    <hr class="m-5">
+
+    <!-- Height -->
+
+    <div class="bg-info" style="height: 100px">
+        <span class="h-25 bg-secondary d-inline-block">H 25%</span>
+        <span class="h-50 bg-secondary d-inline-block">H 50%</span>
+        <span class="h-75 bg-secondary d-inline-block">H 75%</span>
+        <span class="h-100 bg-secondary d-inline-block">H 100%</span>
+        <span class="h-auto bg-secondary d-inline-block">H auto</span>
+    </div>
+
+    <hr class="m-5">
+
+    <!-- Min & Max Height -->
+    <div style="height: 100px; background-color: rgb(255, 0, 0, 0.1)">
+    <div class="mh-100" style="width: 100pX; height:200px; background-color:rgba(204, 68, 68, 0.1)">Max-Height 100%</div>
+    </div>
+
+    <hr class="m-5">
+
+    <!-- Relative to the Viewport -->
+    <div class="min-vw-100 bg-success mb-5">Min-width 100vw</div>
+    <div class="min-vh-100 bg-success mb-5">Min-height 100vh</div>
+    <div class="vw-100 bg-success mb-5">Width 100vw</div>
+    <div class="vh-100 bg-success mb-5">Height 100vh</div>
+
+    <hr class="m-5">
+
+    <!-- Padding And Margin -->
+
+    <div class="p-2 m-2 bg-primary">Padding and margin all sides</div>
+    <div class="pt-2 mt-2 bg-primary">Padding and margin top</div>
+    <div class="pb-2 mb-2 bg-primary">padding and margin bottom</div>
+    <div class="ps-2 ms-2 bg-primary">Padding and margin Left</div>
+    <div class="pe-2 me-2 bg-primary">Padding and margin Right</div>
+    <div class="py-2 my-2 bg-primary">Padding and margin Top and bottom</div>
+    <div class="px-2 mx-2 bg-primary">Padding and margin Left and Right</div>
+    <div class="mx-auto bg-primary" style="width: 8rem;">Margin Auto</div>
+    <div class="mt-n1 bg-primary">Negative Margin</div>
+
+    <hr class="m-5">
+
+    <!-- Overflow    -->
+    <div class="overflow-auto m-5 bg-light d-inline-block" style="height: 150px; width:350px; background-color: lightgrey;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia a reiciendis aliquam ullam blanditiis ad nam nostrum dignissimos architecto quibusdam commodi, nihil accusantium, perspiciatis id atque, vero unde magnam sapiente. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo ut nesciunt architecto quaerat, officiis molestias, fuga quis harum illum natus, esse suscipit blanditiis pariatur. Odio eum libero mollitia ipsum maxime?</div>
+    <div class="overflow-hidden m-5 bg-light d-inline-block" style="height: 150px; width:350px; background-color: lightgray">Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia a reiciendis aliquam ullam blanditiis ad nam nostrum dignissimos architecto quibusdam commodi, nihil accusantium, perspiciatis id atque, vero unde magnam sapiente. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Omnis iure molestias libero ipsum temporibus ab sequi eos quo cum mollitia? Rem nam expedita necessitatibus tempore. Quam, corporis. Quo, distinctio nemo.</div>
+
+    <hr class="m-5">
+
+    <!-- Float And Clearfix  -->
+
+    <div class="clearfix">
+        <p class="float-start bg-primary"> Float Left </p>
+        <p class="float-end bg-primary"> Float Right </p>
+
+    </div>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum odit cum possimus eos unde eligendi sit minus deleniti. Illum tempora quam velit totam enim amet ullam suscipit in hic culpa Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laborum, ullam. Harum, dolores? Consequuntur, reiciendis! Molestiae hic provident at rerum illo porro earum totam aspernatur, quasi nesciunt libero recusandae nam tenetur?.</p>
+
+    <hr class="m-5">
+    <!-- Border -->
+
+    <!-- Additivr Borders -->
+    <div class="border bg-light d-inline-block" style="height:10rem; width:10rem;"></div>
+    <div class="border-top bg-light d-inline-block" style="height:10rem; width:10rem;"></div>
+    <div class="border-bottom bg-light d-inline-block" style="height:10rem; width:10rem;"></div>
+    <div class="border-start bg-light d-inline-block" style="height:10rem; width:10rem;"></div>
+    <div class="border-end bg-light d-inline-block" style="height:10rem; width:10rem;"></div>
+
+    <hr class="m-5">
+
+    <!-- Subtractive Borders   -->
+
+    <div class="border border-0 bg-light d-inline-block" style="height:10rem; width:10rem;"></div>
+    <div class="border border-top-0 bg-light d-inline-block" style="height:10rem; width:10rem;"></div>
+    <div class="border border-bottom-0 bg-light d-inline-block" style="height:10rem; width:10rem;"></div>
+    <div class="border border-start-0 bg-light d-inline-block" style="height:10rem; width:10rem;"></div>
+    <div class="border border-end-0 bg-light d-inline-block" style="height:10rem; width:10rem;"></div>
+
+    <hr class="m-5">
+
+    <!-- Border Colors -->
+
+    <div class="border border-primary bg-light d-inline-block" style="height:10rem; width:10rem;"></div>
+    <div class="border border-secondary bg-light d-inline-block" style="height:10rem; width:10rem;"></div>
+    <div class="border border-success bg-light d-inline-block" style="height:10rem; width:10rem;"></div>
+    <div class="border border-danger bg-light d-inline-block" style="height:10rem; width:10rem;"></div>
+    <div class="border border-warning bg-light d-inline-block" style="height:10rem; width:10rem;"></div>
+    <div class="border border-info   bg-light d-inline-block" style="height:10rem; width:10rem;"></div>
+    <div class="border border-dark bg-light d-inline-block" style="height:10rem; width:10rem;"></div>
+    <div class="border border-white bg-light d-inline-block" style="height:10rem; width:10rem;"></div>
+    <div class="border border-light bg-light d-inline-block" style="height:10rem; width:10rem;"></div>
+
+    <hr class="m-5">
+
+    <!-- Border Radius -->
+
+    <div class="border rounded border-primary bg-light d-inline-block" style="height:10rem; width:10rem;"></div>
+    <div class="border rounded-top  border-secondary bg-light d-inline-block" style="height:10rem; width:10rem;"></div>
+    <div class="border rounded-bottom border-success bg-light d-inline-block" style="height:10rem; width:10rem;"></div>
+    <div class="border rounded-start border-danger bg-light d-inline-block" style="height:10rem; width:10rem;"></div>
+    <div class="border rounded-end border-warning bg-light d-inline-block" style="height:10rem; width:10rem;"></div>
+    <div class="border rounded-circle border-info   bg-light d-inline-block" style="height:10rem; width:10rem;"></div>
+    <div class="border rounded-pill border-dark bg-light d-inline-block" style="height:10rem; width:20rem;"></div>
+    <div class="border rounded-0 border-success  bg-light d-inline-block" style="height:10rem; width:10rem;"></div>
+
+    <hr class="m-5">
+    
+    <!-- Shadow -->
+    
+    <div class="w-100 mb-3 p-3 bg-light shadow-none">No shadow</div>
+    <div class="w-100 mb-3 p-3 shadow-sm">Small Shadow</div>
+    <div class="w-100 mb-3 p-3 shadow">Regular Shadow</div>
+    <div class="w-100 mb-3 p-3 shadow -lg">Larger Shadow</div>
+
+
+
+</body>
+</html>

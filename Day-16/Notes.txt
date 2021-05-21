@@ -1,0 +1,15 @@
+Hie so today is the sixteenth day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) What do you understand by the following terms in bootstrap along with
+    the practical implementation - 
+   (a)  Bootstrap color and background.
+   (b) Bootstrap sizing and spacing.
+   (c) Bootstrap float and borders.
+   (d) Bootstrap badge.
+   (e) Bootstrap Alerts.
+   (f) Bootstrap Progress.
+   (g) Bootstrap Buttons.
+   (h) Bootstrap Cards.
+   (i) Bootstrap Listgroups.
+   (j) Bootstrap Dropdowns.
