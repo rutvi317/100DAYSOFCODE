@@ -1,0 +1,7 @@
+Hie so today is the seventeenth day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) Today I started with Javascript.
+2) What is Javascript.
+3) Why it is been used.
+4) How can we add Javascript to a webpage.
