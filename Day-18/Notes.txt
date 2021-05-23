@@ -1,0 +1,8 @@
+Hie so today is the eighteenth day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) What do you understand by variables in javascript.
+2) Different types of Variables.
+3) Difference between 'var' , 'let' and 'const'.
+4) What do you understand by global vs local variables.
+5) Different use cases of the variables when used as global vs when used as local.
