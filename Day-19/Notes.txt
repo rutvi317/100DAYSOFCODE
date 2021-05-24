@@ -1,0 +1,4 @@
+Hie so today is the ninteenth day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+I made the UI of a 'TO-DO' App which is mobile responsive as well.
