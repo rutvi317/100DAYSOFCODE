@@ -1,0 +1,10 @@
+Hie so today is the twentieth day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) What do you understand by Hoisting.
+2) Different Variable Naming Convetions.
+3) Keywords used in strict mode, keywords used for future.
+4) Operators, Overview & Arithmetic Operators.
+5) Different Kind Of Operators.
+6) Comparison Operators.
+7) Difference between (==) & (===).
