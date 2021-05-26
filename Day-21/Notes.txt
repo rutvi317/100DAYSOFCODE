@@ -1,0 +1,6 @@
+Hie so today is the twentyfirst day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) What do you understand by Logical Operators.
+2) What do you understand by logical AND, OR, NOT.
+3) Practical Implementation of Logical.
