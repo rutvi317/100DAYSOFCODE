@@ -1,0 +1,16 @@
+Hie so today is the twentysecondth day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) What do you understand by
+   (a) Conditional And Ternary Operators.
+   (b) Increment And Decrement Operators.
+      (i) What is pre-fix and post-fix.
+      (ii) Difference between pre-fix and post-fix.
+   (c) Bitwise Operators.
+      (i) AND (&)
+      (ii) OR ( | | )
+      (iii) XOR (^)
+      (iv) NOT ( ~ )
+      (v) Left Shift (<<)
+      (vi) Sign Propogation Right Shift. (>>)
+      (vii) Zero Fill Right Shift. (>>>)
