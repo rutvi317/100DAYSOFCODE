@@ -1,0 +1,15 @@
+Hie so today is the twenty-third day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) What do you understand by
+   (a) Decision Making.
+   (b) Switch Statement.
+   (c) Iteration-Statement
+      (i) While Loop
+      (ii) For Loop
+      (iii) Do While Loop
+   (c) To have control over the loops we have -
+      (i) labeled statement
+      (ii) break statement
+      (iii) continue statement.
+    (d) What are functions along with its different use cases.
