@@ -1,0 +1,19 @@
+Hie so today is the twentyfourth day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) What do you understand by Data Structures.
+2) Why they are been used.
+3) What are different types of data structures - 
+    (i) Arrays
+    (ii) Queues.
+    (iii) Stack
+    (iv) Maps.
+    (v) Sets.
+4) What do you understand by Arrays.
+    (i) Why they are been used.
+    (ii) How to declare them.
+5) What are different collections we have 
+    (i) Indexed Collections - Arrays
+    (ii) Keyed Collections - Maps, Set.
+6) How to access an array we user knows the length of the array and not the elements.
+
