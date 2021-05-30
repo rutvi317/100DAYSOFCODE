@@ -1,0 +1,26 @@
+Hie so today is the twentyfifth day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) What do you understand by Array Iteration.
+2) We have two more types of loops apart from the ones we have -4
+    (i) forEach.
+    (ii) map.
+3) Different methods we have in an array - 
+    (i) concat.
+    (ii) join.
+    (iii) push.
+    (iv) pop.
+    (v) shift.
+    (vi) unshift.
+    (vii) slice.
+    (viii) splice.
+    (ix) reverse.
+    (x) sort.
+    (xi) Indexof.
+    (xii) lastIndexof.
+    (xiii) filter.
+    (xiv) some.
+    (xv) every.
+4) What do you understand by Maps.
+5) What do you understand by Sets.
+
