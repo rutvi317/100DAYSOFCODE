@@ -1,0 +1,13 @@
+Hie so today is the twentysixth day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) I started with Javascript today.
+2) Introduction to DOM.
+3) Brief overview of objects.
+4) What do you understand by properties and methods.
+5) How to access properties of an object.
+6) Accessing DOM Elements.
+7) Different ways of doing it.
+8) Manipualting DOM Elements.
+9) What is toggle function and why we use it.
+
