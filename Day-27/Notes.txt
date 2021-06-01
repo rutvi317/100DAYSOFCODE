@@ -1,0 +1,9 @@
+Hie so today is the twentyseventh day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) How can we Manipulate Text and Attributes.
+2) How to set value for attributes.
+3) What do you understand by textContent, innerHtml and innerText.
+4) Difference between textContent and innerHtml.
+5) How we handle events in javascript.
+
