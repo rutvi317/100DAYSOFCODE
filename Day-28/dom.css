@@ -1,0 +1,22 @@
+/* .btn-2{
+    visibility: hidden;
+} */
+
+.no1{
+    color: white;
+    background-color: red;
+    font-size: 2rem;
+}
+.page-heading{  
+    color: red;
+    background-color: yellow;
+    font-size: 35px;
+}
+
+.heading1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.heading2{
+    color: white;
+}
