@@ -1,0 +1,7 @@
+Hie so today is the twentyeight day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) How can we manipulate DOM elements using jQuery.
+2) How attributes can be chosen and changed.
+3) Event Handling in jQuery.
+
