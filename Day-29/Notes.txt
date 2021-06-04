@@ -1,4 +1,4 @@
-Hie so today is the twentyeight day of my #100DaysOfCode and below mentioned points 
+Hie so today is the twentyninth day of my #100DaysOfCode and below mentioned points 
 will give you an overview of what I have learnt today -
 
 1) How can we manipulate DOM elements using jQuery.
