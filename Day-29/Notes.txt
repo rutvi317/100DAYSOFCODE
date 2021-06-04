@@ -3,5 +3,5 @@ will give you an overview of what I have learnt today -
 
 1) How can we manipulate DOM elements using jQuery.
 2) How attributes can be chosen and changed.
-3) Event Handling in jQuery.
+3) What do you understand by Event Handling in jQuery.
 
