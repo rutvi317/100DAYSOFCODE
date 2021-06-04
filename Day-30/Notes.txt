@@ -1,0 +1,8 @@
+Hie so today is the thirtieth day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) Introduction to objects in Javascript.
+2) How can we create an object.
+3) What is Dot Notation and Bracket Notation.
+4) Difference between Dot and Bracket Notation.
+
