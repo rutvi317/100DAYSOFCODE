@@ -1,0 +1,7 @@
+Hie so today is the thirty-first day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) What do you understand by 'this' keyword.
+2) What are first class functions.
+3) When a function is known as a 'call-back function'.
+4) Understood the above concepts by implementing them.
