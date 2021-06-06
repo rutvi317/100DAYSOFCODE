@@ -1,0 +1,8 @@
+Hie so today is the thirty-second day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) What do you understand by call, apply and bind method.
+2) How and why these methods are been used.
+3) What are constructor functions and why we use them.
+4) What is 'new' keyword used for in constructor functions.
+
