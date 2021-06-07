@@ -1,0 +1,9 @@
+Hie so today is the thirty-third day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) What are prototypes in javascript and why are they been used.
+2) What are ' __proto__ ' objects.
+3) What is prototype chaining.
+4) What is object.create()
+5) How can we use 'object.create()' for creation of objects.
+
