@@ -1,0 +1,10 @@
+Hie so today is the thirty-fifth day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) Overview and Introduction To React.
+2) Features of React -
+    (a) Declarative.
+    (b) Component-Based.
+    (c) Learn Once, Write Everywhere.
+    (d) Single Page Apps.
+
