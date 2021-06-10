@@ -1,0 +1,9 @@
+Hie so today is the thirty-sixth day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) What do you understand by Virtual DOMs.
+2) What is the point of using them over the real DOM.
+3) Other competing frameworks we have other than react.
+4) Difference between Framework  and Library.
+5) Difference between Angular, React and Vue.
+
