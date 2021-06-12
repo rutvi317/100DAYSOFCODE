@@ -1,0 +1,6 @@
+Hie so today is the thirty-eighth day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) What is create-react-app.
+2) How and why it is been used.
+3) Done practical implementaion of installing a create-react-app.
