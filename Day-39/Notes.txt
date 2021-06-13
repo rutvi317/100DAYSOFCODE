@@ -1,0 +1,6 @@
+Hie so today is the thirty-ninth day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) Babel and Webpack Overview.
+2) Detailed study about components.
+3) How can we return multiple elements from a component.
