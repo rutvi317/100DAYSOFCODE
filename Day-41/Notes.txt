@@ -1,0 +1,6 @@
+Hie so today is the forty-first day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) How to add styles in react.
+2) How we work with inline css in react.
+3) How we work with external css in react.
