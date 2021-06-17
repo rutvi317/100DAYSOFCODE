@@ -1,0 +1,11 @@
+Hie so today is the forty-thirdth day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) What do you understand by Class Components in React.
+2) Syntax along with practical implementation.
+3) Difference between Class and Functional Components.
+4) How we do event handling in react.
+5) What do we understand by 'event' keyword when it been passed as a parameter
+     in our functions.
+6) Different functionalities that can be achieved using event, one of them we used is -
+    (a) event.target.id
