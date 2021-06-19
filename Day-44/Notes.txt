@@ -1,0 +1,11 @@
+Hie so today is the forty-fourth day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) What are Synthetic events.
+2) Different functionalities that can be achieved using event, one of them we used is -
+    (a) event.target.id
+    (b) event.targert.value
+3) How can we use event handlers in Class Components.
+4) What are states in Class Components.
+5) How can we achieve it in different ways.
+6) How can we dynamically change our content.
