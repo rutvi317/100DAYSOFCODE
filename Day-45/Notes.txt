@@ -1,0 +1,9 @@
+Hie so today is the forty-fifth day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) I learnt the javascript concepts in depth by learning from the website 
+    "https://javascript.info/" as I had some doubts and wanted to clear them.
+
+2) Apart from this I started learning 'props' in react but as I am not clear with
+    the whole idea and implementation from what I learnt today so would be 
+    doing it again tomorrow and posting about it. 
