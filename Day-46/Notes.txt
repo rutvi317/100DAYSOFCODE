@@ -1,0 +1,11 @@
+Hie so today is the forty-sixth day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) As today was not a great day for me, didn't felt like doing anything but still to 
+    maintain consistency I searched some concepts of javascript which I might have 
+    missed. 
+2) So I learnt about 'Promises' in javascript from W3 Schools.
+3) What are promises.
+4) What is consuming and produncing code.
+5) Properties of promise object.
+6) With a basic syntax and how it is been achieved.
