@@ -1,0 +1,10 @@
+Hie so today is the forty-seventh day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) What do you understand by 'Props'.
+2) Why we use Props.
+3) Passing of prop from-
+   (a) class component to functional component.
+   (b) functional component to functional component.
+   (c) class component to class component.
+
