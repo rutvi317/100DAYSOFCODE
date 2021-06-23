@@ -1,0 +1,11 @@
+Hie so today is the forty-eighth day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) What do you understand by React Lifecycle.
+2) How it works.
+3) What three events are involved in the lifecycle.
+4) What are the methods that are been called inside those events and what is 
+     the sequence in which they are been called.
+5) Implemented only the methods called inside the first event (Component mounted)
+    and consoled the sequence in which methods are been called.
+
