@@ -1,0 +1,9 @@
+Hie so today is the forty-ninth day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) Continued with the methods in events and sequence in which they are called in the react lifecycle.
+2) Did practical implemenation.
+3) Snapshots of the same are available in the docx file attached.
+4) All the files remains same so you can get them from the previous day's folder
+   and the files with the chamges I have uploaded in here,.
+5) Revised the react concepts.
