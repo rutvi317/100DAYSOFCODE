@@ -1,0 +1,6 @@
+Hie so today is the fiftieth day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) What do you mean by react lifecycle methods and a detailed study about them.
+2) Tried to understand them by passing parameters in methods.
+3) Implemented them in the files attached in the folder.
