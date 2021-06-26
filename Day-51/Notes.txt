@@ -1,0 +1,12 @@
+Hie so today is the fifty-first day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) What do you mean by react-routing.
+2) Started with a basic introduction.
+3) Then how routing is done in case of - 
+    (a) Multi-page application.
+    (b) single-page application.
+4) What is 'react-router' , 'react-router-dom' , 'react-router-native' .
+5) What is browser-router and why it is been used.
+6) How we set route path for components.
+7) Practical implemetation is been attached in the files in the same folder.
