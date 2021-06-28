@@ -1,0 +1,12 @@
+Hie so today is the fifty-thirdth day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1)What do you mean by Link in React.
+2) Why we use Link.
+3) Difference between <a> tag and <Link> tag.
+4) How can we use objects inside <Link> tag.
+5) What is the correct way of accessing the attributes which we are having in the url and 
+     that can be done by using props.
+6) What are NavLink in react.
+7) What are they used for.
+8) Attached the practical file and the screenshots for the better understanding.
