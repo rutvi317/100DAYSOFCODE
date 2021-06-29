@@ -1,0 +1,10 @@
+Hie so today is the fifty-fourth day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1)What are params in react.
+2) What is the use of routing params.
+3) How to use them.
+4) How to pass multiple paramters in the route.
+5) How to access the values of those parameters and using props displaying them
+    on the screen. 
+6) Attached the practical file and the screenshots for the better understanding.
