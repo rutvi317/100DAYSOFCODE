@@ -1,0 +1,19 @@
+Hie so today is the fifty-fifth day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) What are the easy way of rendering an element using route without rendering the whole component.
+2) How and why 404 - Page Not Found error occur.
+3) How we handle that 404 error.
+4) Attached the practical file and the screenshots for the better understanding.
+
+xxxxxxxxxxxxxxxxxxx  ------------------------------- xxxxxxxxxxxxxxxxxxxxxxxxx
+
+Also today I started with Data Structure and Algorithms.
+
+(a) What is time complexity and space complexity.
+(b) Coding Problems- 
+      (i) Trapping Rain Water Problem.
+      (ii) Some Basic Mathematics Problems ->
+           (a) Check whether a number is prime or not.
+           (b) Printing the prime numbers between 1 to N.
+ 
