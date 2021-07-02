@@ -1,0 +1,11 @@
+Hie so today is the fifty-seventh day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) What are the issues while using Pure Components.
+2) What are React-Hooks.
+3) Why and how we use React-Hooks and its use cases.
+5) Learned more about using 'useState'.
+4) Attached the practical file and the screenshots for the better understanding.
+
+
+ 
