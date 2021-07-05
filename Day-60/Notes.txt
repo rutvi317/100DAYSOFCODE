@@ -1,0 +1,10 @@
+Hie so today is the sixtieth day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) What do you mean by useEffects hooks.
+2) How and why we use them.
+3) Seen the ComponentDidUpdate, ComponentWillMount and ComponentWillUnmount.
+4) Attached the practical file and the screenshots for the better understanding.
+5) Worked on the Blog Application.
+
+ 
