@@ -1,0 +1,8 @@
+Hie so today is the sixty-first day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) What do you mean by Redux.
+2) Why we use Redux. 
+3) Worked on the Blog Application.
+
+ 
