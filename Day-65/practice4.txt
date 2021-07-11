@@ -1,0 +1,40 @@
+Given three values of different data types. You are required to store these values in variables of corresponding data type and output them.
+
+Input:
+The only line of input contains three space separated values of different types.
+Description of  data types of the values:
+1) First value will be of integer type.
+2) Second value will be of character type.
+3) Third value will be of type float.
+
+Output:
+Output three lines as described:
+1) First line will contain first value.
+2) Second line will contain second value
+3) Third line will contain third value.
+
+Example:
+Input:
+1 h 2.555
+
+Output:
+1
+h
+2.555
+
+Solution:
+
+#include <iostream>
+using namespace std;
+
+int main() {
+	int a;
+	char h;
+	float f;
+	cin>>a>>h>>f;
+	
+	cout<<a<<"\n";
+	cout<<h<<"\n";
+	cout<<f<<"\n";
+	return 0;
+}
