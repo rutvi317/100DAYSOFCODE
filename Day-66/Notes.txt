@@ -1,0 +1,10 @@
+Hie so today is the sixty-sixth day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) Started with redux.
+2) What is Redux.
+3) How and why we use Redux.
+4) How it works.
+5) Learned about the elements we have in react.
+6) Worked on the React-Blog App.
+ 
