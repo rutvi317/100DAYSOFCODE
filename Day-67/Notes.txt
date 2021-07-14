@@ -1,0 +1,7 @@
+Hie so today is the sixty-seventh day of my #100DaysOfCode and below mentioned points 
+will give you an overview of what I have learnt today -
+
+1) Started with redux and how to make storage but faced some issues with visual studio code
+    so my lot of time got consumed in solving the error.
+2) So I solved two coding questions. Attaching the files below.
+ 
